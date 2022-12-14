@@ -3,9 +3,9 @@ package org.tests;
 //import io.github.bonigarcia.wdm.config.WebDriverManagerException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.asserts.Assertion;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+// import org.testng.asserts.Assertion;
+// import org.openqa.selenium.WebDriver;
+// import org.openqa.selenium.chrome.ChromeDriver;
 
 //import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -22,4 +22,5 @@ public class Variables {
 
 
     WebDriverWait wait = new WebDriverWait(driver,time);
+    //Adding comment for Git Learning
 }
