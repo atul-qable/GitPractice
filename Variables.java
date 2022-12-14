@@ -22,4 +22,5 @@ public class Variables {
 
 
     WebDriverWait wait = new WebDriverWait(driver,time);
+    //Adding comment for Git Learning
 }
